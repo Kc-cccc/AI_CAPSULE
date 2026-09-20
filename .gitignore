@@ -1,0 +1,15 @@
+node_modules/
+apps/web/dist/
+.env
+.env.*
+!.env.example
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+coverage/
+.verify/
+apps/api/.verify/
+apps/api/data/*.sqlite*
+.DS_Store
+npm-debug.log*
+a3-deploy.zip
